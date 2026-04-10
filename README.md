@@ -3,11 +3,14 @@
 
 需要的wechat滴滴：gpxf100，备注（AI充值）
 
-SKU	零售价（元）
-GPT Plus 月卡 (A)	118
-GPT PLUS 年卡（找客服充值）	999
-GPT PRO 月卡（质保）	1499
-Gemini 代充 1 年	158
-Gemini Pro 1 年会员成品号	88
-GPT Plus 独享成品号（谷歌邮箱）	99
-GPT plus 独享成品号（微软邮箱）	88
+2026年最新价格
+
+| SKU | 零售价（元） |
+|-----|-------------|
+| GPT Plus 月卡 (A) | 118 |
+| GPT PLUS 年卡（找客服充值） | 999 |
+| GPT PRO 月卡（质保） | 1499 |
+| Gemini 代充 1 年 | 158 |
+| Gemini Pro 1 年会员成品号 | 88 |
+| GPT Plus 独享成品号（谷歌邮箱） | 99 |
+| GPT plus 独享成品号（微软邮箱） | 88 |
